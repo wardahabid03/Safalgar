@@ -6,7 +6,6 @@ Safalgar is a Flutter application designed to immerse users in the rich world of
 
 - **Page Navigation**: Smooth navigation through novel pages.
 - **Bookmarking**: Easily save and access your favorite pages.
-- **Custom Notifications**: Set reminders for your reading sessions.
 - **Dark/Light Theme**: Toggle between themes for comfortable reading.
 
 ## Technologies
